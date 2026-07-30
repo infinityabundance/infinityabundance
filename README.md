@@ -1,10 +1,15 @@
 
 Rust systems engineer building native, memory-safe infrastructure through forensic differential parity testing.
 
-Author of Rust reconstructions NTPsec-rs, OpenNTPD-rs and chrony-rs.
 
 Protocol and systems expertise: Compilers, protocols, Unix tooling, performance and deterministic verification.
 LLM-assisted. Engineer-directed. Oracle-verified.
+
+Time synchronization: NTPsec-rs, OpenNTPD-rs and chrony-rs.
+
+Compilers and toolchains: llvm-native, Autotools-rs and GnuCOBOL-rs
+
+Performance and foundational infrastructure: ryg-rANS-rs, GMP-rs, ncurses-native and zic-rs(tzsuite-rs).
 
 Available for Rust systems work.
 
