@@ -21,7 +21,7 @@ Available for Rust systems work.
 </p>
 
 
-![Snake Metal Gear Solid 5]([https://klipy.com](https://klipy.com/gifs/snake-metal-gear-solid-5))
+
 
 
 
