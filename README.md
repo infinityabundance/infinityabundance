@@ -19,3 +19,8 @@ Available for Rust systems work.
   <br>
   <a href="https://www.youtube.com/watch?v=tYzMYcUty6s" target="_blank">Watch: NEVER GIVE UP YOUR WAAAAAAAAAAAAY</a>
 </p>
+
+
+
+<img src="[https://klipy.com](https://klipy.com/gifs/snake-metal-gear-solid-5)" width="450" alt="Snake MGS5">
+
