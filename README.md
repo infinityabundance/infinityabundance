@@ -7,7 +7,7 @@ My first computer was a Commodore VIC-20 and then an Olivetti M24.
 Where it all started:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/infinityabundance/infinityabundance/refs/heads/main/vic-20.png" alt="VIC-20" width="560">
+  <img src="https://raw.githubusercontent.com/infinityabundance/infinityabundance/refs/heads/main/vic-20.png" alt="VIC-20" width="250">
   <br>
   <a href="https://en.wikipedia.org/wiki/VIC-20" target="_blank" rel="noopener noreferrer">Commodore VIC-20 on Wikipedia</a>
 </p>
